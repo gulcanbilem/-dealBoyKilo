@@ -1,0 +1,8 @@
+C:\Users\gulca\OneDrive\Masaüstü\IdealBoyKilo\obj\Debug\IdealBoyKilo.csproj.AssemblyReference.cache
+C:\Users\gulca\OneDrive\Masaüstü\IdealBoyKilo\obj\Debug\IdealBoyKilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulca\OneDrive\Masaüstü\IdealBoyKilo\obj\Debug\IdealBoyKilo.csproj.CoreCompileInputs.cache
+C:\Users\gulca\OneDrive\Masaüstü\IdealBoyKilo\bin\Debug\IdealBoyKilo.exe.config
+C:\Users\gulca\OneDrive\Masaüstü\IdealBoyKilo\bin\Debug\IdealBoyKilo.exe
+C:\Users\gulca\OneDrive\Masaüstü\IdealBoyKilo\bin\Debug\IdealBoyKilo.pdb
+C:\Users\gulca\OneDrive\Masaüstü\IdealBoyKilo\obj\Debug\IdealBoyKilo.exe
+C:\Users\gulca\OneDrive\Masaüstü\IdealBoyKilo\obj\Debug\IdealBoyKilo.pdb
